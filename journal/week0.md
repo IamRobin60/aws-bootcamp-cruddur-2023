@@ -35,3 +35,12 @@ The image show a proof of my 1$ budget.
 Image below is illustrate gitpod code use from the instruction provided.
 
 ![budget](https://user-images.githubusercontent.com/66971472/219873114-a8d6bede-654b-4d76-807f-2563946d470d.png)
+
+
+### Recreate Logical Architectual Diagram in Lucid Charts
+
+
+![Cloud Architecture](https://user-images.githubusercontent.com/66971472/219873788-b274bce5-1694-4c6a-8ece-70e2b0603cd6.png)
+
+
+
