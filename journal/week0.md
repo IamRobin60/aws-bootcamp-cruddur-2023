@@ -42,6 +42,9 @@ Image below is illustrate gitpod code use from the instruction provided.
 
 ![Cloud Architecture](https://user-images.githubusercontent.com/66971472/219873788-b274bce5-1694-4c6a-8ece-70e2b0603cd6.png)
 
-.[Lucid Chart Share Link].(https://lucid.app/lucidchart/443f78f0-ef66-47f5-82df-29fef4b53f61/edit?viewport_loc=-972%2C-108%2C3222%2C1545%2C0_0&invitationId=inv_c615e91e-ba2d-4503-b6de-e4dba7e9583e)
+Lucid chart share link below
+
+https://lucid.app/lucidchart/443f78f0-ef66-47f5-82df-29fef4b53f61/edit?viewport_loc=-972%2C-108%2C3222%2C1545%2C0_0&invitationId=inv_c615e91e-ba2d-4503-b6de-e4dba7e9583e
+
 
 
