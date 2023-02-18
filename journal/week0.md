@@ -16,3 +16,15 @@ I installed AWS CLI using the image illustration of auto-script setup to complet
 
 ### Create a Billing Alarm
 Billing Alarm 
+
+
+
+### Create a Budget
+The budget I created was only $1 because I couldn't afford anything else. S ince I was concerned about spendingmore thang my two free budgets, I didn't create a second budget.
+The image show a proof of my 1$ budget.
+
+![budget example](https://user-images.githubusercontent.com/66971472/219873039-95844276-447a-4bdc-ae08-20acd133bcad.png)
+
+Image below is illustrate gitpod code use from the instruction provided.
+
+![budget](https://user-images.githubusercontent.com/66971472/219873114-a8d6bede-654b-4d76-807f-2563946d470d.png)
