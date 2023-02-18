@@ -17,6 +17,13 @@ I installed AWS CLI using the image illustration of auto-script setup to complet
 ### Create a Billing Alarm
 Billing Alarm 
 
+When creating this billing alarm, I ran into some issues with the notification process on Gitpod, but I was able to overcome them by iterating through the process again and checking for spelling errors.   
+
+These image show below is my proof of billinfg alarm system setup on amw using gutpod code.
+
+![Alaem config(Billing alarm)](https://user-images.githubusercontent.com/66971472/219873582-8e8e364d-9262-40ae-8d9f-e37b2bd2685b.png)
+
+![Billing alarm](https://user-images.githubusercontent.com/66971472/219873594-82d056b4-e41d-4e32-bc95-56f6b8528995.png)
 
 
 ### Create a Budget
